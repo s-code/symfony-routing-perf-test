@@ -1,5 +1,5 @@
 {
-    "name": "symfony_routing",
+    "name": "fast_routing",
     "license": "proprietary",
     "type": "project",
     "autoload": {
