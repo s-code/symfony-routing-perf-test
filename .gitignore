@@ -1,0 +1,5 @@
+.idea
+symfony_routing/vendor
+symfony_routing/composer.lock
+fast_routing/vendor
+fast_routing/composer.lock
